@@ -8,7 +8,7 @@ This repository contains resources and assignments related to the CC-10 Database
 - `docs`: Contains a PowerPoint presentation on SQL.
 - `internals`: Contains SQL scripts .
 - `practicals`: Contains SQL scripts .
-- `questions`: Contains PDF files of course assignments .
+- `questions`: Contains PDF of course assignments .
 
 ## License
 
